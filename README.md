@@ -48,7 +48,7 @@ Proyek ini bertujuan untuk mengembangkan dan membandingkan beberapa model foreca
 🏅 **ARIMA (9,1,5)**
 
 > **Note:** Semakin kecil nilai MAPE dan RMSE, semakin baik performa model dalam melakukan prediksi penjualan.
-- 
+
 ### 🔍 Insight
 
 - 🚀 LSTM-GRU memberikan performa terbaik dengan nilai MAPE dan RMSE terendah, sehingga menghasilkan prediksi penjualan yang paling akurat.
